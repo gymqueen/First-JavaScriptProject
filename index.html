@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="title">Guess my number!</h1>
+      <div id="result-area">
+        <img
+          src="https://www.scaler.com/topics/images/number-guessing-game-c-project-Thumbnail.webp"
+          class="main-img"
+        />
+        <h2 class="result-text">Ready?</h2>
+      </div>
+      <h3 id="chance-area">You have:</h3>
+      <div class="row d-flex justify-content-center align-items-center">
+        <div class="col-md-5">
+          <input
+            type="number"
+            id="user-input"
+            class="form-control mb-7"
+            placeholder="Enter between 1 to 100."
+          />
+        </div>
+        <div class="col-md-2 d-flex justify-content-between">
+          <button class="btn mb-2 button-style" id="play-button">Go</button>
+          <button class="btn mb-2 button-style button-reset">Reset</button>
+        </div>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
