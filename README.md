@@ -1,4 +1,4 @@
-Try it here ->  https://firstjavaproject.pages.dev/
+Try it here ->  https://firstjsproject.pages.dev/
 
 - Number Guessing Game (ENG)
 
