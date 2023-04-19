@@ -1,6 +1,6 @@
 Try it here ->  https://firstjsproject.pages.dev/
 
-- Number Guessing Game (ENG)
+Number Guessing Game (ENG)
 
 1. Features
 
@@ -22,7 +22,9 @@ Try it here ->  https://firstjsproject.pages.dev/
 - CSS
 - JavaScript
 
-* 숫자 맞추기 게임 (KOR)
+
+
+숫자 맞추기 게임 (KOR)
 
 1. 기능
 
